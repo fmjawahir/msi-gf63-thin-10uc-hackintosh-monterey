@@ -1,6 +1,6 @@
 # Hackintosh Monterey on MSI GF63 Thin 10UC
 
-![msi gf63 thin 10uc opencore monterey](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4QHxby12xsfPkFYhJ73_GiWsGnbvdCKpz10x_347_TMKa5ky5v6sSW2k9TXa8iSBnUdjIrCKw82nq5DJBX7G5M8gCXUJTQG_9lUCt4tc0OjI3NR_8rpXZW3hlM-LrG149mJdnbxLNxzxF8XzMxUc1OGjPdsSISVg1weENV62VXw3iSTZH_mS0Jl-HBiR/s4032/msi-gf63-thin-10uc-opencore-monterey.JPG)
+![msi gf63 thin 10uc opencore monterey](https://blogger.googleusercontent.com/img/a/AVvXsEjaWf1H81i49mKVtXmbVVgogyGr0xCEZ9rCXSIx3VF2-H7ujupGrr0KEuuhkzzJnSWbtyt3LmzLv2gsq42xh8qE98i41X1i5e6lScoKVzQjvAmYsOSo7f07BKyEREelEaNyGV9XE7qjkEb6YibHXdwdYWOV3uoLFjp_jDEurD5bfCuC4wzo57X4wHfOow4k)
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.4-blue)](https://github.com/acidanthera/OpenCorePkg)
 
